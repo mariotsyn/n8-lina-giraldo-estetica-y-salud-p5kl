@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Lina Giraldo Estética y Salud",
+    "tagline": "Tu Bienestar y Belleza, Nuestra Pasión.",
+    "description": "En Lina Giraldo Estética y Salud, transformamos tu belleza y bienestar en Sagunto. Ofrecemos tratamientos personalizados de estética facial y corporal, utilizando técnicas avanzadas y productos de alta calidad para resultados visibles y duraderos. Nuestro compromiso es brindarte una experiencia de cuidado excepcional en un ambiente de relajación y profesionalidad.",
+    "phone": "+34 641 45 22 34",
+    "address": "Carrer Puig de Pasqües, 2, 46500 Sagunt, Valencia, España",
+    "email": "info@linagiraldoestetica.es",
+    "rating": null,
+    "reviewCount": null,
+    "hours": ["Monday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Tuesday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Wednesday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Thursday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Friday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#A57B7B",
+    "secondary": "#3A2E39",
+    "accent": "#F0D5BB",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Descubre tu Mejor Versión. Belleza y Salud Integral.",
+    "subheadline": "Experimenta tratamientos estéticos personalizados que realzan tu belleza natural y fomentan tu bienestar. Tu oasis de cuidado en Sagunto.",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Ver Tratamientos", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJoahl0I4VYA0RRTrPJcK10jE/photos/ATCDNfUQCuWtVDK1m4g6ill5gENYgmgvZi8oG0n4LgB_D_O8nqtjiJorI3WDTGXORciZEKmvY9iSV-z1IpXSMSe_AUg7fNs5A2KqEiFeR_QoUxsmXZ0vEAlz4sjSrw371Foferim2tm0IdK9DMNPxVaZkIfcjD3i_ept4K2Ltx-4ZTne3VlaEm_uAfMcAaoMh-M6DW77VjhUXrAANos7-a0kXLPYeen5kL0FIC-kIah00LGsizFngwOy_o3Dw9lVsL3Qk3TS-m5WuQTx-NKc3xRS5sy0hlbN0wrVR84GRlXsadpUzg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "✨", "title": "Tratamientos Faciales Personalizados", "description": "Revitaliza tu piel con nuestros protocolos faciales adaptados a tus necesidades. Logra una tez luminosa, firme y visiblemente más joven." },
+    { "icon": "🌿", "title": "Remodelación Corporal Avanzada", "description": "Reduce celulitis, reafirma y tonifica tu silueta con nuestras técnicas corporales de vanguardia. Alcanza el cuerpo que siempre deseaste con resultados visibles." },
+    { "icon": "⚡", "title": "Depilación Láser de Diodo", "description": "Experimenta una depilación eficaz y duradera con nuestra tecnología láser de diodo de última generación. Piel suave y libre de vello de forma segura y cómoda." },
+    { "icon": "💆‍♀️", "title": "Masajes Terapéuticos y Relajantes", "description": "Libera tensiones y desconecta del estrés diario con nuestros masajes personalizados. Mejora tu bienestar físico y mental en un ambiente de calma." }
+  ],
+  "about": {
+    "title": "Nuestra Filosofía: Belleza y Bienestar Integral",
+    "text": "En Lina Giraldo Estética y Salud, creemos firmemente que la verdadera belleza emana del bienestar interior. Nuestro compromiso es ofrecerte una experiencia holística que no solo realce tu estética, sino que también fomente tu salud y equilibrio. Con un enfoque personalizado, cada tratamiento es diseñado para atender tus necesidades específicas y superar tus expectativas.\n\nContamos con un equipo de profesionales altamente cualificados y apasionados por el cuidado personal. Utilizamos productos de la más alta calidad y la tecnología más avanzada del sector para garantizar resultados excepcionales y duraderos. Nos enorgullece ser tu espacio de confianza en Sagunto, donde la profesionalidad y la calidez humana se unen para tu transformación.\n\nVen y descubre un oasis de paz donde podrás desconectar, rejuvenecer y sentirte radiante. En Lina Giraldo, tu belleza y salud son nuestra prioridad, y nos dedicamos a cuidarte en cada detalle.",
+    "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJoahl0I4VYA0RRTrPJcK10jE/photos/ATCDNfUQCuWtVDK1m4g6ill5gENYgmgvZi8oG0n4LgB_D_O8nqtjiJorI3WDTGXORciZEKmvY9iSV-z1IpXSMSe_AUg7fNs5A2KqEiFeR_QoUxsmXZ0vEAlz4sjSrw371Foferim2tm0IdK9DMNPxVaZkIfcjD3i_ept4K2Ltx-4ZTne3VlaEm_uAfMcAaoMh-M6DW77VjhUXrAANos7-a0kXLPYeen5kL0FIC-kIah00LGsizFngwOy_o3Dw9lVsL3Qk3TS-m5WuQTx-NKc3xRS5sy0hlbN0wrVR84GRlXsadpUzg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior moderno y acogedor de Lina Giraldo Estética y Salud en Sagunto." },
+    { "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80", "alt": "Tratamiento facial relajante en un ambiente sereno." },
+    { "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80", "alt": "Preparativos para un tratamiento de belleza en cabina." }
+  ],
+  "testimonials": [
+    { "name": "Clara Pérez", "stars": 5, "text": "Un lugar excepcional donde te sientes cuidada desde el primer momento. Mis tratamientos faciales son increíbles, ¡Lina es una profesional!" },
+    { "name": "David Gómez", "stars": 5, "text": "Recomendado 100%. Me hice un masaje relajante y salí como nuevo. Gran atención y ambiente tranquilo. Volveré sin dudarlo." },
+    { "name": "Ana Ruiz", "stars": 4, "text": "Excelente servicio de depilación láser. Muy contenta con los resultados y el trato amable de todo el equipo. ¡Gracias!" }
+  ],
+  "contact": {
+    "title": "¿Listo para Transformar tu Bienestar y Belleza?",
+    "subtitle": "Contacta con nosotros hoy mismo y agenda tu cita personalizada en Lina Giraldo Estética y Salud.",
+    "whatsappNumber": "+34 641 45 22 34",
+    "showMap": true,
+    "mapQuery": "Lina Giraldo Estética y Salud Carrer Puig de Pasqües, 2, 46500 Sagunt, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Lina Giraldo Estética y Salud"
+  }
+}
